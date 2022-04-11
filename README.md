@@ -14,7 +14,7 @@ For this week's challenge, we were tasked with analyzing New York City bike shar
 3. We then built a story within Tableau to highlight our findings.
 
 The published visualization can be found on Tablea Public here:
-[Bikesharing](https://public.tableau.com/app/profile/halil.dudakovic/viz/Ridesharing_16495609091320/ChallengeStory_1)
+[Bikesharing](https://public.tableau.com/app/profile/halil.dudakovic/viz/Ridesharing_16495609091320/ChallengeStory_1#1)
 
 ## Results
 ### Checkout Times for Users
